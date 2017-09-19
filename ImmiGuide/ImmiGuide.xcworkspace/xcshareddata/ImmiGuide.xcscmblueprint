@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "92F8AFBCC299CF14714CC5E2F93969E40D48545F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "92F8AFBCC299CF14714CC5E2F93969E40D48545F" : 9223372036854775807,
+    "DE5BB8B9A57DD779848A243A54D79680CB107D28" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8B26018D-80BC-4B82-BB1F-0E8DDD42B743",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "92F8AFBCC299CF14714CC5E2F93969E40D48545F" : "ImmiGuide\/",
+    "DE5BB8B9A57DD779848A243A54D79680CB107D28" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ImmiGuide",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ImmiGuide\/ImmiGuide.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Shashi717\/ImmiGuide.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "92F8AFBCC299CF14714CC5E2F93969E40D48545F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/C4Q\/AC3.2-groupThree-ImmigrantServices.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DE5BB8B9A57DD779848A243A54D79680CB107D28"
+    }
+  ]
+}
